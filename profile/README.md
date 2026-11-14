@@ -12,5 +12,6 @@ A Pomars é um estúdio de software. Cria e mantém produtos digitais em áreas 
 - **[Comparavo](https://comparavo.com)**: a mesma peça de moda, pelo menor preço. Em breve.
 - **[Quadrok](https://quadrok.com)**: o preço do m² dos imóveis de Belo Horizonte. Em breve.
 - **[Sharo](https://sharo.partners)**: plataforma de parceiros, em que quem faz crescer participa. Grátis durante o beta.
+- **[Fasto Network](https://www.instagram.com/fasto.network/)**: internet por fibra óptica em Belo Horizonte, para casas, condomínios e empresas. Rápida de verdade. Em breve.
 
 → [pomars.com](https://pomars.com)
